@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redyandri/react-tutorial/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/redyandri/react-tutorial/static/js/main.c03bf504.chunk.js",
+    "main.js.map": "/redyandri/react-tutorial/static/js/main.c03bf504.chunk.js.map",
+    "runtime-main.js": "/redyandri/react-tutorial/static/js/runtime-main.0dd8d6c3.js",
+    "runtime-main.js.map": "/redyandri/react-tutorial/static/js/runtime-main.0dd8d6c3.js.map",
+    "static/js/2.3a0181cb.chunk.js": "/redyandri/react-tutorial/static/js/2.3a0181cb.chunk.js",
+    "static/js/2.3a0181cb.chunk.js.map": "/redyandri/react-tutorial/static/js/2.3a0181cb.chunk.js.map",
+    "static/js/3.dbd444b8.chunk.js": "/redyandri/react-tutorial/static/js/3.dbd444b8.chunk.js",
+    "static/js/3.dbd444b8.chunk.js.map": "/redyandri/react-tutorial/static/js/3.dbd444b8.chunk.js.map",
+    "index.html": "/redyandri/react-tutorial/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/redyandri/react-tutorial/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3a0181cb.chunk.js.LICENSE.txt": "/redyandri/react-tutorial/static/js/2.3a0181cb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/redyandri/react-tutorial/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dd8d6c3.js",
+    "static/js/2.3a0181cb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c03bf504.chunk.js"
+  ]
+}
